@@ -1,4 +1,4 @@
-Spotify Listening Pattern Analysis Report
+Spotify Listening Behaviour Analysis - Project Report
 
 1.	Project Overview
 A comprehensive retrospective analysis of 9 years of Spotify streaming behavior (2016–2024) using a combination of structured metadata and behavioral metrics. The dataset included over 2,000 tracks spanning multiple genres, languages, and listening contexts. Using Microsoft Power BI, I built dynamic, filterable dashboards to examine patterns by year, artist, album, listening time, device, shuffle behavior, and skip activity. The project aims to uncover latent user behavior insights to enhance personalization, engagement, and music recommendation strategies.
